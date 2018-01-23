@@ -1,0 +1,6 @@
+System.out.println(edu.cnm.deepdive.temperature.Converter.celsiusToFahrenheit(0));
+System.out.println(edu.cnm.deepdive.temperature.Converter.celsiusToFahrenheit(100));
+System.out.println(edu.cnm.deepdive.temperature.Converter.celsiusToFahrenheit(-40));
+
+
+edu.cnm.deepdive.temperature.Converter.fahrenheitToCelsius(-40)
